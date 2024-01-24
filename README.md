@@ -1,6 +1,6 @@
 # Password Generator
 
-Live Demo :https://sumeshsudhi.github.io/Password_Generator/
+Live Demo : https://sudhisumesh.github.io/PASSWORD_GENERATOR/
 
 This is a password generator that creates unique and strong passwords using letters, numbers, and symbols. The user can specify the length of the password.
 
